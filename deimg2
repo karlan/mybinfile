@@ -1,0 +1,1 @@
+convert -size 200X150 $1.eps $1.png

@@ -1,0 +1,1 @@
+convert $1.jpg eps2:$1.eps

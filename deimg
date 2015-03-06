@@ -1,0 +1,1 @@
+convert -size 200X150 $1.ps $1.png

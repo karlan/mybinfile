@@ -1,0 +1,2 @@
+latex $1.tex
+dvips -f -t lettersize $1.dvi > $1.ps

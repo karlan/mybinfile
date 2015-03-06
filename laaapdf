@@ -1,0 +1,6 @@
+latex $1.tex
+bibtex $1
+latex $1.tex
+latex $1.tex
+dvips -f -t lettersize $1.dvi > $1.ps
+ps2pdf $1.ps
